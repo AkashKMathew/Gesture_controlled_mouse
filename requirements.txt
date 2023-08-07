@@ -1,0 +1,8 @@
+opencv-python
+numpy
+mediapipe
+sympy
+screeninfo
+customtkinter
+mouse
+pyautogui
